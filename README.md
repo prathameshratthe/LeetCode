@@ -18,3 +18,15 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prathameshratthe/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+# Tree
+|  |
+| ------- |
+| [1021-distribute-coins-in-binary-tree](https://github.com/prathameshratthe/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1021-distribute-coins-in-binary-tree](https://github.com/prathameshratthe/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1021-distribute-coins-in-binary-tree](https://github.com/prathameshratthe/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
