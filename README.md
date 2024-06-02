@@ -13,10 +13,12 @@ Collection of LeetCode questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prathameshratthe/LeetCode/tree/master/0078-subsets) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prathameshratthe/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 # Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prathameshratthe/LeetCode/tree/master/0078-subsets) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prathameshratthe/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 # Tree
 |  |
@@ -30,3 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1021-distribute-coins-in-binary-tree](https://github.com/prathameshratthe/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prathameshratthe/LeetCode/tree/master/0078-subsets) |
