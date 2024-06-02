@@ -36,3 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prathameshratthe/LeetCode/tree/master/0078-subsets) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0552-student-attendance-record-ii](https://github.com/prathameshratthe/LeetCode/tree/master/0552-student-attendance-record-ii) |
