@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prathameshratthe/LeetCode/tree/master/0078-subsets) |
+| [0876-hand-of-straights](https://github.com/prathameshratthe/LeetCode/tree/master/0876-hand-of-straights) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prathameshratthe/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 # Bit Manipulation
 |  |
@@ -47,8 +48,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/prathameshratthe/LeetCode/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/prathameshratthe/LeetCode/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/prathameshratthe/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/prathameshratthe/LeetCode/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/prathameshratthe/LeetCode/tree/master/0876-hand-of-straights) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/prathameshratthe/LeetCode/tree/master/0876-hand-of-straights) |
