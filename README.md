@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/prathameshratthe/LeetCode/tree/master/0078-subsets) |
 | [0523-continuous-subarray-sum](https://github.com/prathameshratthe/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/prathameshratthe/LeetCode/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/prathameshratthe/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prathameshratthe/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 # Bit Manipulation
 |  |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/prathameshratthe/LeetCode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/prathameshratthe/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/prathameshratthe/LeetCode/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/prathameshratthe/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Sorting
 |  |
 | ------- |
@@ -69,3 +71,4 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/prathameshratthe/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/prathameshratthe/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
